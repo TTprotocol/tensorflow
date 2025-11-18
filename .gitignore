@@ -6,3 +6,6 @@
 # Python 캐시
 __pycache__/
 *.pyc
+
+# pdf 파일
+document/
